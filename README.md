@@ -33,6 +33,12 @@ source .venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
+<br>
+<br>
 
+---
 
+<br>
+
+### Example:
 ![](./imgs/sort.gif)
